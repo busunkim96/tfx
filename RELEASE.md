@@ -6,6 +6,7 @@
     in a pipeline while reusing artifacts generated in previous pipeline runs.
     This is supported in LocalDagRunner and BeamDagRunner, and is exposed via
     the TfxRunner API.
+*   Added experimental support for TensorFlow Decision Forests models.
 
 ### For Pipeline Authors
 
